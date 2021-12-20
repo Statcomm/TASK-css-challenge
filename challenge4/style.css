@@ -1,0 +1,33 @@
+/* Add your code in each class */
+body {
+}
+.container {
+  width: 50%;
+  text-align: center;
+}
+.movie-card {
+  text-align: center;
+}
+.movie-image {
+  width: 50%;
+  text-align: center;
+}
+.movie-details-container {
+  text-align: center;
+}
+.descriptions {
+}
+
+/*A gift from us!*/
+.movie-shadow {
+  /*
+    This gradient was made by this website https://cssgradient.io/
+*/
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #220425;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.75) 0%, #220425%);
+}
+.movie-title {
+}
